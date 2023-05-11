@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed4408a2-422c-47fb-8edc-3b74bc21cddf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PalindromeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NumbersClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumbersClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WordReverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WordReverser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NumbersClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumbersClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WordReverserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WordReverserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PalindromeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NumbersClassTest.shouldReturnTrueWhenMinOfArrayIsPositive">
+  <component name="RunManager" selected="JUnit.PalindromeTest.shouldReturnFalseIfStringIsNull">
     <configuration name="NumbersClassTest.shouldPrintValueWhenMinOfArrayIsPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Opdrachten_Testing_Berns" />
       <option name="PACKAGE_NAME" value="" />
@@ -82,16 +75,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="NumbersClassTest" />
       <option name="METHOD_NAME" value="shouldReturnEqualsWhenMinOfArrayIsNegative" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumbersClassTest.shouldReturnEqualsWhenMinOfArraysIsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Opdrachten_Testing_Berns" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumbersClassTest" />
-      <option name="METHOD_NAME" value="shouldReturnEqualsWhenMinOfArraysIsZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,13 +100,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeTest.shouldReturnFalseIfStringIsNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Opdrachten_Testing_Berns" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PalindromeTest" />
+      <option name="METHOD_NAME" value="shouldReturnFalseIfStringIsNull(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeTest.shouldReturnFalseIfStringIsNull" />
         <item itemvalue="JUnit.NumbersClassTest.shouldReturnTrueWhenMinOfArrayIsPositive" />
         <item itemvalue="JUnit.NumbersClassTest.shouldReturnTrueWhenMinOfArrayIsNegative" />
         <item itemvalue="JUnit.NumbersClassTest.shouldPrintValueWhenMinOfArrayIsPositive" />
         <item itemvalue="JUnit.NumbersClassTest.shouldReturnEqualsWhenMinOfArrayIsNegative" />
-        <item itemvalue="JUnit.NumbersClassTest.shouldReturnEqualsWhenMinOfArraysIsZero" />
       </list>
     </recent_temporary>
   </component>
