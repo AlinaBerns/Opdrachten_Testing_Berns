@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public enum Result {
+public enum Result {
+    POSITIVE,
+    NEGATIVE,
+    ZERO,
+    EVEN,
+    ODD;
 }
