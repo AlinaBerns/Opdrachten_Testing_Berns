@@ -9,11 +9,4 @@ public class Palindrome {
         String newString = new StringBuilder(string.trim()).reverse().toString();
         return newString.equals(string);
     }
-
-    @Override
-    public String toString() {
-        return "Palindrome{" +
-                "string='" + string + '\'' +
-                '}';
-    }
 }
